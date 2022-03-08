@@ -23,10 +23,10 @@ img[alt=csharp]{
 
 |Langage / Framework|Level (1 - 5)                  |
 |-------------------|-------------------------------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="30px" \>|:star::star::star::star::star: |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" \>|:star::star::star::star::star: |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30px" \>|:star::star::star::star:       |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30px" \>|:star::star::star:             |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px" \>|:star::star::star:             |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Javalogo.png" width="30px" \>|:star::star::star:             |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="30px" />|:star::star::star::star::star: |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" />|:star::star::star::star::star: |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30px" />|:star::star::star::star:       |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60px" style="margin:-15px" />|:star::star::star:             |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px" />|:star::star::star:             |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Javalogo.png" width="30px" />|:star::star::star:             |
 |VHDL               |:star:                         |
